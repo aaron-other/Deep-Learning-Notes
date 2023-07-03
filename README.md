@@ -1,2 +1,2 @@
 # Deep-Learning-Notes
-Deep Learning Notes
+Some Deep-Learning-Notes for reference only.
